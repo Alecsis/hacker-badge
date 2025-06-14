@@ -24,3 +24,13 @@ heres the functions that I plan to have:
 so far I focused on scoping ideal functions and planning out all the features that I would want. I've used a rp2040 before and it was kinda fun!
 
 **time spent ~1hour ish**
+## June 14, the planning
+Right now, I've got a barebone rp2040 mcu setup as well as the hardware needed to communicate to a ffc data cable from the screen. This took a lot of planning since its been a while since i've tinkered with embedded electronics. I was at first thinking to use smth like a xiao rp2040 but decided i wanted to challenge myself and gone thru this route. I was also thinking about using a display that aready had a display hat on it, but was it was super expensive($20-40)
+
+Thats all for now!!!
+
+![image](https://github.com/user-attachments/assets/4a6a0c9a-aab4-4414-a540-1ad67101e5ee)
+![image](https://github.com/user-attachments/assets/8190d4dc-9d69-4962-9bf6-6fc6317cc109)
+
+ps holy hierarchical sheets r so cool
+**time spent ~6 hours ish**AA
