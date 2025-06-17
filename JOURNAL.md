@@ -34,3 +34,12 @@ Thats all for now!!!
 
 ps holy hierarchical sheets r so cool
 **time spent ~6 hours ish**AA
+
+## June 16, charge circuit!!!
+For today i wanted to implement a lipo into the design and find a way to charge it. I first looked at all the cells avail and noticed 3.7V was the most common so i decided to get that, however the rp2040 only accepts 5v and heres where a boost converter comes in! The mt3608 converts my 3.7v battery into usable 5v through two resistors. I also decided to use the tp4056 battery ic in this project as it was cheap in lscs.
+![image](https://github.com/user-attachments/assets/71ab6e1e-6039-46e6-bb1c-2aa60e9aaaca)
+ps kinda running out of spaceeeee
+
+**time spent ~4ish hours
+
+
