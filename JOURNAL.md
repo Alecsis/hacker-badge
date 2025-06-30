@@ -43,3 +43,11 @@ ps kinda running out of spaceeeee
 **time spent ~4ish hours
 
 
+## June 29, BOM and getting ready for PCB!!
+Woww I took a long ass break, welp it was worth it cuz I recent had summer camp as well as starting my RTX internship WOOO!!!. Anyways today I focused mainly on searching up all my parts on jlc/lscs and writting that in one notepad doc :( this rlly took alot of time and im glad thats all over!!! Ive also converted the easyeda footprints to kicad too so it would masivly help in assigning foorprints the next time i work on this!
+
+ughhh im so tired
+![image](https://github.com/user-attachments/assets/8fb8adbb-1203-4af3-a3d1-0185a08c4394)
+ps my search history is fully of jlcpcb omg 
+
+**time spent  ~5 hours**
